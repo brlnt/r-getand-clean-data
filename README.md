@@ -17,3 +17,4 @@ Script
 run_analysis.R script  will merge the test and training data together and create tidy data with the average of each 
 variable for each activity and each subject.
 
+See  [CodeBook](CodeBook.md) for more details
