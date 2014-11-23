@@ -5,7 +5,7 @@ Introduction
 ------------
 Work for the course project for the Coursera course "Getting and Cleaning data".
 
-Preequisite
+Prerequisite
 -----------
 
 The UCI HAR Dataset must be extracted and available under "./UCI HAR Dataset" folder.
