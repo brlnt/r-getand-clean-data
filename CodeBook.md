@@ -25,6 +25,13 @@ gravity. The gravitational force is assumed to have only low frequency component
 frequency was used. From each window, a vector of features was obtained by calculating variables from the time and 
 frequency domain. 
 
+# Dataset format
+
+The original data set is split into training and test sets divided into three files
+
+- measurements from the accelerometer and gyroscope (_x)
+- activity label (_y)
+- identifier of the subject (_subject)
 
 # Getting and cleaning data (run_analysis.R)
 
