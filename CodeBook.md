@@ -40,8 +40,8 @@ The script do;
 1. Merges the training and the test sets to create one data set. (merged_)
 2. Extracts only the measurements on the mean and standard deviation for each measurement. (removing any unncesarry columns)
 3. Uses descriptive activity names to name the activities in the data set and appropriately labels the data set with 
-descriptive variable names.  (puttin avtivity names next to their values)
+descriptive variable names.  (putting avtivity names next to their values)
 4. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each 
 activity and each subject
-5. Saves the tidy data set into a new file for fdurther use. (tidy_data.txt)
+5. Saves the tidy data set into a new file for further use. (tidy_data.txt)
 
